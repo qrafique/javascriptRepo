@@ -10,4 +10,6 @@ h2.style.border ="6px solid green";
 
 
 const link = document.querySelector("a");
-console.log(link);
+console.log(link.getAttribute("href"));
+const inputElement =document.querySelector(".form-todo input");
+console.log(inputElement.getAttribute("type"));
