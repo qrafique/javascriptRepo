@@ -13,3 +13,20 @@ const link = document.querySelector("a");
 console.log(link.getAttribute("href"));
 const inputElement =document.querySelector(".form-todo input");
 console.log(inputElement.getAttribute("type"));
+
+link.setAttribute("href","https://www.google.com");
+
+const navItems = document.getElementsByTagName("a");
+//console.log(navItems);
+for (let index = 0; index < navItems.length; index++) {
+    const navItem = navItems[index];
+    navItem.style.backgroundColor = "#fff2";
+    navItem.style.color= "blue";
+    navItem.style.fontWeight= "bold";
+    
+}
+
+for (let iterator of navItems) {
+    iterator.style.color = "white"
+
+}
