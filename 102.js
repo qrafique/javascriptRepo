@@ -4,3 +4,4 @@ var data = "qasim";
 console.log(data);
 console.log("new data has ben added");
 console.log("new data has ben added");
+console.log("new data has ben added2");
