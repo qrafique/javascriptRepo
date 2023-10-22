@@ -7,3 +7,7 @@ h2.innerHTML = "once again changed";
 h2.style.color ="blue";
 h2.style.backgroundColor ="white";
 h2.style.border ="6px solid green";
+
+
+const link = document.querySelector("a");
+console.log(link);
