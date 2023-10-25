@@ -1,0 +1,16 @@
+#main {
+    background-color: rgb(204, 175, 236);
+    height: 3cm;
+    width:  10cm;
+    margin-left: 5cm;
+    padding: 5cm;
+
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(52, 83, 14);
+}
+#inputField {
+    border: 2px , solid ;
+    border-color: rgb(183, 255, 0);
+}
