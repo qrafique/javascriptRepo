@@ -27,6 +27,6 @@ for (let index = 0; index < navItems.length; index++) {
 }
 
 for (let iterator of navItems) {
-    iterator.style.color = "white";
+    iterator.style.color = "white"
 
 }
