@@ -1,3 +1,3 @@
 const rootNode = document.getRootNode();
 console.log(rootNode);
-console.log(rootNode.childNodes);
+console.log("qasim");
