@@ -64,15 +64,11 @@
     text-align: center;
 
   }
-<<<<<<< HEAD
   .bg-dark{
     background-color: black;
     color: #eee;
-=======
-  .todoColor{
-    
->>>>>>> a531e1dd8995a1b96b66db51e1c5dd359c2ddabb
   }
+
   .form-todo{
     
     min-height: 5vh;
