@@ -64,11 +64,11 @@
     text-align: center;
 
   }
-  .bg-dark{
-    background-color: black;
-    color: #eee;
+  .todoColor{
+    background-color: blueviolet;
+    color: blue;
+    
   }
-
   .form-todo{
     
     min-height: 5vh;
