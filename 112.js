@@ -1,3 +1,3 @@
-const todosection =document.querySelector("todo-section")
+const todosection =document.querySelector(".todo-section")
 console.log(todosection);
-todosection.classList.add("todoColor");
+//todosection.classList.add("todoColor");
